@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:4000";
+const BASE_URL = "https://retail-sales-backend-e0dr.onrender.com";
 
 async function handle(res) {
   if (!res.ok) {
